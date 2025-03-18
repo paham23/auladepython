@@ -1,0 +1,3 @@
+1 permitir que o usuario escreva a propria mensagem personalisada;
+2. criar um menu pra escolher entre diferentes tipos de mensagens;
+3. usar a biblioteca pyautogui para enviar mensagens reais no whatsapp.
